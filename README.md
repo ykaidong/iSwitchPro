@@ -3,8 +3,10 @@ iSwitch Pro
 
 iSwitch Pro -- 用于NovaStar H2控制器的预设场景切换, 可以设定全局快捷键
 
-![config](./config.png)
-![iSwitch Pro](./isw.png)
+![config](./img/config.png)
+
+
+![iSwitch Pro](./img/isw.png)
 
 ---
 
