@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="iSwitch" libEmbed="true" icon="res\i.ico" ui="win" output="iSwitch.exe" CompanyName="开拓实验室" FileDescription="用于NovaStar H2预置场景切换" LegalCopyright="Copyright (C) DevLabs 2021" ProductName="iSwitch" InternalName="iSwitch" FileVersion="0.1.0.07" ProductVersion="0.1.0.07" publishDir="/dist/" dstrip="false" local="false" ignored="false">
+	<file name="main.aardio" path="main.aardio" comment="main.aardio"/>
+	<folder name="资源文件" path="res" embed="true" local="false" ignored="false">
+		<file name="config.aardio" path="res\config.aardio" comment="res\config.aardio"/>
+	</folder>
+</project>
